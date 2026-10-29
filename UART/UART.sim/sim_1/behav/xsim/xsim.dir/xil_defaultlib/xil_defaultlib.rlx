@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+D:/1Vivado/UART/UART.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+D:/1Vivado/UART/UART.srcs/sim_1/new/Uart_testbench.v,1793244398,verilog,,,,uart_tb,,,../../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
+D:/1Vivado/UART/UART.srcs/sources_1/new/Uart.v,1793243729,verilog,,D:/1Vivado/UART/UART.srcs/sources_1/new/Uart_rcvr.v,,uart_tx,,,../../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
+D:/1Vivado/UART/UART.srcs/sources_1/new/Uart_rcvr.v,1793244179,verilog,,D:/1Vivado/UART/UART.srcs/sim_1/new/Uart_testbench.v,,uart_rx,,,../../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
